@@ -1,24 +1,37 @@
-Hi, I'm Sachin 👋
+# 👋 Hi, I'm Sachin  
 
-🎓 BTech Computer Science Student at Dayanada Sagar University 
-
- 🌟 About Me
-- 💻 Skilled in **Python, Java, and C**  
-- 🌱 Currently learning **AI, Deep Learning, and Cloud Technologies**  
-- 🎯 Passionate about technology and continuous learning  
-- 🤝 Open to collaborating on coding, learning, and tech discussions  
-
- 🛠️ Tech Stack
-- **Programming Languages:** Python, Java, C  
-- **Learning:** Artificial Intelligence, Machine Learning, Cloud Computing  
-- **Interests:** Software Development, Data Science, and Emerging Tech
-
-  🎉 Fun Fact
-I enjoy solving coding quizzes and sometimes explain concepts to my friends using real-life examples—it makes learning fun! 🚀  
-
+🎓 **B.Tech Student | Aspiring Developer | Tech Enthusiast**  
+💻 Passionate about learning and building projects in **AI, Machine Learning, Web Development, and Python Programming**.  
 
 ---
-⭐ Driven by curiosity and a passion for learning new technologies!
+
+## 🛠️ Skills & Technologies  
+- **Programming Languages:** Python, Java, C  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Databases:** MySQL, SQLite  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code  
+- **Concepts:** AI/ML, Deep Learning, Data Science Basics  
+
+---
+
+## 📚 Currently Learning  
+- Machine Learning & AI  
+- Deep Learning for Data Science  
+- Advanced Python & Java  
+
+---
+
+## 🎯 Goals  
+- Contribute to **Open Source Projects**  
+- Build impactful projects that solve real-world problems  
+- Sharpen my skills in **AI & Cloud Computing**  
+
+---
+⚡ Fun Fact  
+I enjoy solving quizzes, exploring new tech tools, and experimenting with innovative project ideas.  
+
+
+
 
 
 ## 🌐 Socials:
