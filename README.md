@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Skills & Technologies  
-- **Programming Languages:** Python, Java, C  
+- **Programming Languages:** Python, Java, C ,React,Node.js 
 - **Web Development:** HTML, CSS, JavaScript  
 - **Databases:** MySQL, SQLite  
 - **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code  
