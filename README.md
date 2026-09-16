@@ -12,7 +12,7 @@
 - **Data & Visualization:** Pandas, NumPy, Matplotlib
 - **AI & Machine Learning:** Scikit-learn, OpenCV, Deep Learning fundamentals
 - **Web & Backend:** HTML, CSS, React, Angular, Node.js, Express.js
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, Google Cloud, Azure
+- **Tools & Platforms:** Git, GitHub, Jupyter, VS Code, Google Cloud, Azure
 
 ## 🤝 Professional Strengths
 
@@ -41,6 +41,16 @@ My repositories also include error-correcting codes, computer vision, e-voting, 
 - Building stronger SQL and data-analysis workflows for reporting and analytics
 - Improving testing, validation, and maintainable project structure
 - Developing reliable AI and computer-vision applications
+
+## 🔧 Engineering Practices
+
+I focus on making project changes that are useful beyond a demo:
+
+- **Validation:** Add type checks, input validation, and defensive error handling where failure modes are predictable.
+- **Testing:** Cover core transformations, edge cases, and integration boundaries with automated tests where practical.
+- **Data Quality:** Use SQL constraints, integrity checks, ranking, window functions, and KPI queries to make analytical results more trustworthy.
+- **Maintainability:** Prefer small, focused modules and clear interfaces so features can evolve without duplicating business logic.
+- **Delivery:** Use GitHub workflows and repeatable setup commands to catch build or type errors before changes are integrated.
 
 ## 🎯 Goals
 
