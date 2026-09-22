@@ -29,7 +29,7 @@
 | [Email Classifier](https://github.com/Sachinn0704/email_classifier) | Python, machine learning, text classification, API confidence scoring |
 | [Task Dependency Management System](https://github.com/Sachinn0704/task-dependency-management-system) | Django, dependency validation, backend logic, automated testing |
 | [Student Performance Analysis](https://github.com/Sachinn0704/-sql-student-performance-analysis) | SQL analytics, ranking, CTEs, window functions, data quality |
-| [Student Management Database](https://github.com/Sachinn0704/Student-Management-Database-System) | MySQL, performance analytics, KPI reporting, intervention analysis |
+| [Student Management Database](https://github.com/Sachinn0704/Student-Management-Database-System) | MySQL, performance analytics, KPI reporting, subject intervention analysis |
 | [Multimodal AI Project](https://github.com/Sachinn0704/Multi-modal-_AI-project) | Python, image/text/audio processing, modular AI workflows |
 | [Steganography Project](https://github.com/Sachinn0704/Steganography_project) | Image steganography, LSB encoding, UTF-8 payload handling, testing |
 
